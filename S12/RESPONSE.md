@@ -1,5 +1,7 @@
 # Conclusiones - Guía de Práctica Nro 12
 
+(https://github.com/guidolaes/pruebas-unitarias/tree/master/S12)[https://github.com/guidolaes/pruebas-unitarias/tree/master/S12]
+
 ### Respuestas a las Preguntas de Conclusión
 
 1. **¿Qué importancia tiene el rol del QA en el proceso de desarrollo?**
