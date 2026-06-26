@@ -4,8 +4,11 @@ Proyecto de práctica con PHP y pruebas unitarias.
 
 ## Semanas
 
-| Semana | Descripción |
-|--------|-------------|
-| [S7](S7/) | Calculadora básica con pruebas unitarias PHPUnit |
-| [S8](S8/) | Evolución de la calculadora — TDD y casos extremos |
-| [S9](S9/) | _Próximamente_ |
+| Semana | Carpeta | Descripción |
+| :--- | :--- | :--- |
+| Semana 07 | [S07](S07/) | Calculadora básica con operaciones fundamentales y pruebas unitarias con PHPUnit. |
+| Semana 08 | [S08](S08/) | Evolución de la calculadora aplicando TDD y cubriendo casos extremos (valores límite y excepciones). |
+| Semana 09 | [S09](S09/) | _Próximamente_ (Sin contenido de prácticas). |
+| Semana 10 | [S10](S10/) | Pruebas avanzadas con PHPUnit: Uso de Proveedores de Datos (Data Providers) y validación de excepciones. |
+| Semana 11 | [S11](S11/) | Validación de excepciones detallada (expectException/expectExceptionMessage) y ejercicios adicionales de factorial y validación de contraseña. |
+| Semana 12 | [S12](S12/) | Plan de pruebas y aseguramiento de calidad (QA) para un Sistema de Reservas de Hotel, aplicando corrección de errores y organización mediante `@covers` y `@group`. |
