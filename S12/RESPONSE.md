@@ -1,6 +1,6 @@
 # Conclusiones - Guía de Práctica Nro 12
 
-(https://github.com/guidolaes/pruebas-unitarias/tree/master/S12)[https://github.com/guidolaes/pruebas-unitarias/tree/master/S12]
+[https://github.com/guidolaes/pruebas-unitarias/tree/master/S12](https://github.com/guidolaes/pruebas-unitarias/tree/master/S12)
 
 ### Respuestas a las Preguntas de Conclusión
 
