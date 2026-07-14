@@ -13,3 +13,4 @@ Proyecto de práctica con PHP y pruebas unitarias.
 | Semana 11 | [S11](S11/) | Validación de excepciones detallada (expectException/expectExceptionMessage) y ejercicios adicionales de factorial y validación de contraseña. |
 | Semana 12 | [S12](S12/) | Plan de pruebas y aseguramiento de calidad (QA) para un Sistema de Reservas de Hotel, aplicando corrección de errores y organización mediante `@covers` y `@group`. |
 | Semana 13 | [S13](S13/) | Introducción a los estándares de documentación de código en JavaScript utilizando JSDoc y comentarios estructurados. |
+| Semana 14 | [S14](S14/) | Pruebas unitarias de bases de datos utilizando SQLite en memoria, analizando el ciclo de vida de las pruebas con `setUp`, `setUpBeforeClass`, `tearDown` y `tearDownAfterClass` en PHPUnit. |
