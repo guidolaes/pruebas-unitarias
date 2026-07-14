@@ -12,3 +12,4 @@ Proyecto de práctica con PHP y pruebas unitarias.
 | Semana 10 | [S10](S10/) | Pruebas avanzadas con PHPUnit: Uso de Proveedores de Datos (Data Providers) y validación de excepciones. |
 | Semana 11 | [S11](S11/) | Validación de excepciones detallada (expectException/expectExceptionMessage) y ejercicios adicionales de factorial y validación de contraseña. |
 | Semana 12 | [S12](S12/) | Plan de pruebas y aseguramiento de calidad (QA) para un Sistema de Reservas de Hotel, aplicando corrección de errores y organización mediante `@covers` y `@group`. |
+| Semana 13 | [S13](S13/) | Introducción a los estándares de documentación de código en JavaScript utilizando JSDoc y comentarios estructurados. |
